@@ -19,7 +19,7 @@
         {
             "name": "Fesenko Zakharii",
             "email": "biozahard@gmail.com"
-        },
+        }
     ],
     "minimum-stability": "dev",
     "require": {
