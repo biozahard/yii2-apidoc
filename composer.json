@@ -1,6 +1,6 @@
 {
-    "name": "yiisoft/yii2-apidoc",
-    "description": "API Documentation generator for the Yii framework 2.0",
+    "name": "biozahard/yii2-apidoc",
+    "description": "REST API Documentation generator for the Yii framework 2.0",
     "keywords": ["yii2", "phpdoc", "apidoc", "api", "documentation"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
@@ -15,7 +15,11 @@
         {
             "name": "Carsten Brandt",
             "email": "mail@cebe.cc"
-        }
+        },
+        {
+            "name": "Fesenko Zakharii",
+            "email": "biozahard@gmail.com"
+        },
     ],
     "minimum-stability": "dev",
     "require": {
